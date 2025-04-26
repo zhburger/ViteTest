@@ -1,1 +1,2 @@
 集成百度地图api定位华南理工大学大学城校区AED位置
+此为react-native中使用webview开发的页面（react）
